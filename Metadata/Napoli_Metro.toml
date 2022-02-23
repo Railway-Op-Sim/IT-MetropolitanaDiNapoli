@@ -1,0 +1,14 @@
+rly_file = "Napoli_Metro.rly"
+ttb_files = [ "Napoli_Metro_MoFri_10am.ttb",]
+ssn_files = [ "Napoli_Metro_MoFri_10am.ssn",]
+img_files = [ "NapoliMetro.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-02-23"
+version = "1.0.0"
+country_code = "IT"
+factual = true
+description = ""
+display_name = "Metropolitanadinapoli"
+name = "Metropolitanadinapoli"
+author = "artemis-beta"
+contributors = []
