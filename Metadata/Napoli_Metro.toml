@@ -11,4 +11,6 @@ description = "Representation of the Metro railway system in Naples, Italy."
 display_name = "Metropolitana di Napoli"
 name = "Metropolitana di Napoli"
 author = "Krizar"
+year = 2022
 contributors = []
+
